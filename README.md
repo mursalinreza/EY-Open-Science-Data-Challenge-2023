@@ -28,7 +28,17 @@ https://github.com/user-attachments/assets/dcfc389f-c3fa-442d-94fe-d3f4b92d9a77
 
 
 ## Files and Resources
-- **Project File**: Explore the detailed implementation and model design in the `Project.ipynb` file.
+- **`Project File.ipynb`**: Explore the detailed implementation and model design in the Jupyter notebook.
+- **`Additional Dataset.pdf`**: Provides precipitation as an additional datasets used in the model actinga s one of the principal predictors to our model.
+- **`Chau Phu, Vietnam 2021-10-01 to 2022-09-01.csv`**: Data file containing rice yield data for Chau Phu, Vietnam.
+- **`Chau Thanh, Vietnam 2021-10-01 to 2022-09-01.csv`**: Data file containing rice yield data for Chau Thanh, Vietnam.
+- **`Thoai Son 2021-10-01 to 2022-09-01.csv`**: Data file containing rice yield data for Thoai Son, Vietnam.
+- **`bagging_model.pkl`**: Pre-trained model file for the ensemble learning approach.
+- **`Requirements File.txt`**: A list of required libraries and dependencies for running the model.
+- **`Supporting Document.pdf`**: Additional documentation supporting the project.
+
+## How to Use
+To dive deeper into the specifics of this project, including data preprocessing, model design, and evaluation metrics, please refer to the **`Project File.ipynb`** file in this branch.
 
 
 
